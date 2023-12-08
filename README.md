@@ -8,10 +8,10 @@ Welcome to the repository of ExeQut's Umrah App, a mobile application made with 
 
 As we're in the initial stages of development, here are the planned core features for the Umrah App:
 
-- **Pilgrimage Guide:** Detailed step-by-step guides on performing Umrah rituals.
+- **Umrah Guide:** Detailed step-by-step guides on performing Umrah rituals.
 - **Location Services:** Interactive maps and location tracking to navigate through important sites.
 - **Language Support:** Multi-language support to cater to pilgrims from diverse backgrounds.
-- **Useful Shops:** Useful spots for shopping in Madinah and Makkah: malls, groceries, clothing, food, books.
+- **Shopping Guide:** Useful spots for shopping in Madinah and Makkah: malls, groceries, clothing, food, books.
 
 ## Getting Started
 
